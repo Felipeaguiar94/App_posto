@@ -16,7 +16,7 @@ export default function postos() {
                     "endereço": "Bento Pereira, S/N",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Bento+Pereira"
+                    "link": "https://maps.app.goo.gl/EjBJRYmpTtefHfip6"
                 },
                 {
                     "id": "3",
@@ -24,7 +24,7 @@ export default function postos() {
                     "endereço": "Bom Sucesso, S/N",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Bom+Sucesso"
+                    "link": "https://maps.app.goo.gl/wwR1fee4pc1badv1A"
                 },
                 {
                     "id": "4",
@@ -32,7 +32,7 @@ export default function postos() {
                     "endereço": "Trav. Agostinho Sousa Lima, S/N",
                     "localização": "Urbana",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Travessa+Agostinho+Sousa+Lima"
+                    "link": "https://maps.app.goo.gl/KMicgrCuGrt65AzZ9"
                 },
                 {
                     "id": "5",
@@ -40,7 +40,7 @@ export default function postos() {
                     "endereço": "Rua Dr. José Ramalho, Nº 1335",
                     "localização": "Urbana",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Rua+Dr.+José+Ramalho,+1335"
+                    "link": "https://maps.app.goo.gl/wQUyrCTg1twaYsCt9"
                 },
                 {
                     "id": "6",
@@ -48,7 +48,7 @@ export default function postos() {
                     "endereço": "Ingá, S/N",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Ingá"
+                    "link": "https://maps.app.goo.gl/QoxuBEKMuQxSPg828"
                 },
                 {
                     "id": "7",
@@ -56,7 +56,7 @@ export default function postos() {
                     "endereço": "Jardim São José, S/N",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Jardim+São+José"
+                    "link": "https://maps.app.goo.gl/GRkfYzmwMTwKqLg98"
                 },
                 {
                     "id": "8",
@@ -64,7 +64,7 @@ export default function postos() {
                     "endereço": "Rua José Pereira do Nascimento, Nº 2823",
                     "localização": "Urbana",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Rua+José+Pereira+do+Nascimento,+2823"
+                    "link": "https://maps.app.goo.gl/ewr4mgzN2GcxMGQi9"
                 },
                 {
                     "id": "9",
@@ -72,7 +72,7 @@ export default function postos() {
                     "endereço": "Rua Eduval Xavier Pinto, S/N",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Rua+Eduval+Xavier+Pinto"
+                    "link": "https://maps.app.goo.gl/z4YSGgDMvijBBq9j9"
                 },
                 {
                     "id": "10",
@@ -80,7 +80,7 @@ export default function postos() {
                     "endereço": "Trav. Raimundo Maciel Pereira, Nº 221",
                     "localização": "Urbana",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Travessa+Raimundo+Maciel+Pereira"
+                    "link": "https://maps.app.goo.gl/dz6xmkSVFJd2Jz649"
                 },
                 {
                     "id": "11",
@@ -88,7 +88,7 @@ export default function postos() {
                     "endereço": "Rua Antônio Joaquim de Araújo, Nº 1795",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Rua+Antônio+Joaquim+de+Araújo,+1795"
+                    "link": "https://maps.app.goo.gl/cHNVa8kbransQv4w7"
                 },
                 {
                     "id": "12",
@@ -96,7 +96,7 @@ export default function postos() {
                     "endereço": "Pitombeira, S/N",
                     "localização": "Urbana",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Pitombeira"
+                    "link": "https://maps.app.goo.gl/QB43ibdoJ26jyd796"
                 },
                 {
                     "id": "13",
@@ -104,7 +104,7 @@ export default function postos() {
                     "endereço": "Av. Governador Raul Barbosa, Nº 1411",
                     "localização": "Urbana",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Av.+Governador+Raul+Barbosa,+1411"
+                    "link": "https://maps.app.goo.gl/b9HrvtmCzeAs8Y1u5"
                 },
                 {
                     "id": "14",
@@ -112,7 +112,7 @@ export default function postos() {
                     "endereço": "Retiro, S/N",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Retiro"
+                    "link": "https://maps.app.goo.gl/yvhUPoqZJocwhoJy5"
                 },
                 {
                     "id": "15",
@@ -120,7 +120,7 @@ export default function postos() {
                     "endereço": "Rua da Matriz, Nº 2945",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Rua+da+Matriz,+2945"
+                    "link": "https://maps.app.goo.gl/vNhBoTnRgD5o3Zdb9"
                 },
                 {
                     "id": "16",
@@ -128,7 +128,7 @@ export default function postos() {
                     "endereço": "Sítio Canto, S/N",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Sítio+Canto"
+                    "link": "https://maps.app.goo.gl/n8UFNv8sKapu4AMS8"
                 },
                 {
                     "id": "17",
@@ -136,63 +136,55 @@ export default function postos() {
                     "endereço": "Rua Ivo Xavier, Nº 460",
                     "localização": "Urbana",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Rua+Ivo+Xavier,+460"
+                    "link": "https://maps.app.goo.gl/3JiBZuUumcYh2xx28"
                 },
                 {
                     "id": "18",
-                    "nome": "UBS Timbaúba de Nossa Senhora das Dores",
-                    "endereço": "Distrito de Timbaúba de Nossa Senhora das Dores, S/N",
-                    "localização": "Rural",
-                    "Horário de funcionamento": "Seg - Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Distrito+de+Timbaúba+de+Nossa+Senhora+das+Dores"
-                },
-                {
-                    "id": "19",
                     "nome": "UBS Bonhu",
                     "endereço": "Distrito do Bonhu, S/N",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Distrito+do+Bonhu"
+                    "link": "https://maps.app.goo.gl/dATytMs9cjDxhjSY9"
                 },
                 {
-                    "id": "20",
+                    "id": "19",
                     "nome": "UBS Lagoa Grande",
                     "endereço": "Rua Euclides Ângelo Cordeiro, S/N",
                     "localização": "Rural",
                     "Horário de funcionamento": "Seg - Qui: 7h às 11h, Sex: 7h às 13h",
-                    "link": "https://www.google.com/maps/place/Rua+Euclides+Ângelo+Cordeiro"
+                    "link": "https://maps.app.goo.gl/GTZwgibZky5ES24B8"
                 },
                 {
-                    "id": "21",
+                    "id": "20",
                     "nome": "UBS Catumbela I E II (ESB)",
                     "endereço": "RUA RAIMUNDO AGOSTINHO SANTIAGO, 1390",
                     "localização": "URBANA",
                     "Horário de funcionamento": "SEG-SEX: 7H ÀS 19H",
-                    "link": "https://maps.google.com/?cid=11011764722123009725"
+                    "link": "https://maps.app.goo.gl/NsC4dw4DTNMhsgH26"
                 },
                 {
-                    "id": "22",
+                    "id": "21",
                     "nome": "UBS MUTIRÃO I E II (ESB)",
                     "endereço": "RUA Mª EDVAN MOREIRA DA SILVA, 3200",
                     "localização": "URBANA",
                     "Horário de funcionamento": "SEG-SEX: 7H ÀS 19H",
-                    "link": "https://www.google.com/maps/place/Rua+edvan+moreira+silva"
+                    "link": "https://maps.app.goo.gl/ZwX8Xayk9aZaBA5z9"
                 },
                 {
-                    "id": "23",
-                    "nome": " UBS FLORES I E II (ESB)",
+                    "id": "22",
+                    "nome": "UBS FLORES I E II (ESB)",
                     "endereço": "RUA MANOEL SABINO MENDES, S/N",
                     "localização": "RURAL",
                     "Horário de funcionamento": "SEG-SEX: 7H ÀS 21H",
-                    "link": "https://www.google.com/maps/place/Rua+manoel+sabino+mendes"
+                    "link": "https://maps.app.goo.gl/C6FTRkV2mjGax57A7"
                 },
                 {
-                        "id": "24",
+                        "id": "23",
                         "nome": "UBS VÁRZEA ALEGRE I E II (ESB)",
                         "endereço": "RUA MIGUEL REINALDO MACIEL S/N",
                         "localização": "URBANA",
                         "Horário de funcionamento": "SEG-SEX: 7H ÀS 21H",
-                        "link": "https://www.google.com/maps/place/Rua+miguel+reinaldo+maciel"
+                        "link": "https://maps.app.goo.gl/PDtroLKiyic6L4dh9"
                 }
             ],
         }
