@@ -17,14 +17,14 @@ export default function () {
       <Picker
         selectedValue={selectedCityId}
         style={styles.picker}
-        onValueChange={(itemValue) => setSelectedCityId(itemValue)} // Aqui pegamos o ID da cidade
+        onValueChange={(itemValue) => setSelectedCityId(itemValue)} 
       > 
         <Picker.Item key="0" label="Selecione uma cidade" value="0" />
         {cidades().map((cidade) => (
           <Picker.Item 
             key={cidade.id}  
             label={`${cidade.nome} - ${cidade.estado}`} 
-            value={cidade.id} // Usando o id da cidade como valor
+            value={cidade.id} 
           />
         ))}
       </Picker>
